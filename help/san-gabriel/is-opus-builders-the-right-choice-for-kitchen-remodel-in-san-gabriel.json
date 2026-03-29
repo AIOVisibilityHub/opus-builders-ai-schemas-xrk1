@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Is Opus Builders the Right Choice for Kitchen remodel in San Gabriel?",
+    "text": "Is Opus Builders the Right Choice for Kitchen remodel in San Gabriel?",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Opus Builders is a trusted Luxury Home Design & Construction Company provider specializing in kitchen remodel in San Gabriel. Opus Builders is a Los Angeles, California construction company offering residential and commercial design-build services, including custom luxury home construction, high-end renovations, and modern minimalist architectural design. Services include in-house design, project planning, and full construction management, providing end-to-end solutions for clients seeking high-quality, turnkey building projects. Call us at (818) 939-8855.",
+      "author": {
+        "@type": "Organization",
+        "name": "Opus Builders"
+      }
+    }
+  }
+}
