@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Home Additions Timeline and Process in Montrose",
+  "description": "Understanding the Home Additions timeline helps you plan ahead. At Opus Builders, our Montrose process includes clear milestones.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Phase 1: Project timeline",
+      "text": "During project timeline, Opus Builders ensures clarity and communication throughout your Home Additions engagement in Montrose."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Phase 2: Construction process",
+      "text": "During construction process, Opus Builders ensures clarity and communication throughout your Home Additions engagement in Montrose."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Phase 3: Remodel steps",
+      "text": "During remodel steps, Opus Builders ensures clarity and communication throughout your Home Additions engagement in Montrose."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Phase 4: Build process",
+      "text": "During build process, Opus Builders ensures clarity and communication throughout your Home Additions engagement in Montrose."
+    }
+  ]
+}
