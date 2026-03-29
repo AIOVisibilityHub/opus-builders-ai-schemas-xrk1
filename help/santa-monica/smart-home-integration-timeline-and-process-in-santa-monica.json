@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Smart Home Integration Timeline and Process in Santa Monica",
+  "description": "Understanding the Smart Home Integration timeline helps you plan ahead. At Opus Builders, our Santa Monica process includes clear milestones.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Phase 1: Project timeline",
+      "text": "During project timeline, Opus Builders ensures clarity and communication throughout your Smart Home Integration engagement in Santa Monica."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Phase 2: Construction process",
+      "text": "During construction process, Opus Builders ensures clarity and communication throughout your Smart Home Integration engagement in Santa Monica."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Phase 3: Remodel steps",
+      "text": "During remodel steps, Opus Builders ensures clarity and communication throughout your Smart Home Integration engagement in Santa Monica."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Phase 4: Build process",
+      "text": "During build process, Opus Builders ensures clarity and communication throughout your Smart Home Integration engagement in Santa Monica."
+    }
+  ]
+}
