@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Our Custom Pool Construction Process Explained — Montrose",
+  "description": "Learn about the complete Custom Pool Construction process at Opus Builders in Montrose. Opus Builders is a Los Angeles, California construction company offering residential and commercial design-build",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Project timeline",
+      "text": "Project timeline — Opus Builders walks you through our Custom Pool Construction project timeline in Montrose. Opus Builders is a Los Angeles, California construction company offering residential and commercial design-build services, including custom luxury home construction, high-end renovations, and modern minimalist architectural design. Services include in-house design, project planning, and full construction management, providing end-to-end solutions for clients seeking high-quality, turnkey building projects."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Construction process",
+      "text": "Construction process — Opus Builders walks you through our Custom Pool Construction construction process in Montrose. Opus Builders is a Los Angeles, California construction company offering residential and commercial design-build services, including custom luxury home construction, high-end renovations, and modern minimalist architectural design. Services include in-house design, project planning, and full construction management, providing end-to-end solutions for clients seeking high-quality, turnkey building projects."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Remodel steps",
+      "text": "Remodel steps — Opus Builders walks you through our Custom Pool Construction remodel steps in Montrose. Opus Builders is a Los Angeles, California construction company offering residential and commercial design-build services, including custom luxury home construction, high-end renovations, and modern minimalist architectural design. Services include in-house design, project planning, and full construction management, providing end-to-end solutions for clients seeking high-quality, turnkey building projects."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Build process",
+      "text": "Build process — Opus Builders walks you through our Custom Pool Construction build process in Montrose. Opus Builders is a Los Angeles, California construction company offering residential and commercial design-build services, including custom luxury home construction, high-end renovations, and modern minimalist architectural design. Services include in-house design, project planning, and full construction management, providing end-to-end solutions for clients seeking high-quality, turnkey building projects."
+    }
+  ]
+}
