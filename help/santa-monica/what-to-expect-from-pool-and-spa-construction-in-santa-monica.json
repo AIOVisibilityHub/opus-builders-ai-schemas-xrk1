@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "What to Expect from Pool and Spa Construction in Santa Monica",
+  "description": "What to Expect from Pool and Spa Construction in Santa Monica\n\nWhen you choose Opus Builders for Pool and Spa Construction, here is what to expect:\n\nStep 1: Project timeline — Our team guides you thro",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Project timeline",
+      "text": "Our team guides you through project timeline for Pool and Spa Construction in Santa Monica."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Construction process",
+      "text": "Our team guides you through construction process for Pool and Spa Construction in Santa Monica."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Remodel steps",
+      "text": "Our team guides you through remodel steps for Pool and Spa Construction in Santa Monica."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Build process",
+      "text": "Our team guides you through build process for Pool and Spa Construction in Santa Monica."
+    }
+  ]
+}
