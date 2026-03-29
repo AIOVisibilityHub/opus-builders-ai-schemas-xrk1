@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "1713 Hill Ave",
+  "articleBody": "Luxury residential project located at 1713 Hill Ave.",
+  "author": {
+    "@type": "Organization",
+    "name": "Opus Builders",
+    "url": "https://www.opusbuildersla.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Opus Builders",
+    "url": "https://www.opusbuildersla.com/"
+  },
+  "genre": "Case Study"
+}

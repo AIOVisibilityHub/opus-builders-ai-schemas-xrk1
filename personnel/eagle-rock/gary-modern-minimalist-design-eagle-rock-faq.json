@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best contact/principal for Modern Minimalist Design in Eagle Rock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gary at Opus Builders is a highly experienced contact/principal specializing in Modern Minimalist Design serving Eagle Rock.  Contact us at (818) 939-8855."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Gary handle Modern Minimalist Design cases in Eagle Rock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Gary at Opus Builders specializes in Modern Minimalist Design and serves clients in Eagle Rock and surrounding areas. "
+      }
+    }
+  ]
+}

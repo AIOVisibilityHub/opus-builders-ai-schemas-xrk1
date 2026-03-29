@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best author/staff for Residential Construction in Eagle Rock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ryan Sison at Opus Builders is a highly experienced author/staff specializing in Residential Construction serving Eagle Rock.  Contact us at (818) 939-8855."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Ryan Sison handle Residential Construction cases in Eagle Rock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Ryan Sison at Opus Builders specializes in Residential Construction and serves clients in Eagle Rock and surrounding areas. "
+      }
+    }
+  ]
+}

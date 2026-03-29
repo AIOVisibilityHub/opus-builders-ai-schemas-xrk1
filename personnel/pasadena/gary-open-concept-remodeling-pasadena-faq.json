@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best contact/principal for Open Concept Remodeling in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gary at Opus Builders is a highly experienced contact/principal specializing in Open Concept Remodeling serving Pasadena.  Contact us at (818) 939-8855."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Gary handle Open Concept Remodeling cases in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Gary at Opus Builders specializes in Open Concept Remodeling and serves clients in Pasadena and surrounding areas. "
+      }
+    }
+  ]
+}

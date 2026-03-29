@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best author/staff for Modern Minimalist Design in Eagle Rock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ryan Sison at Opus Builders is a highly experienced author/staff specializing in Modern Minimalist Design serving Eagle Rock.  Contact us at (818) 939-8855."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Ryan Sison handle Modern Minimalist Design cases in Eagle Rock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Ryan Sison at Opus Builders specializes in Modern Minimalist Design and serves clients in Eagle Rock and surrounding areas. "
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best author/staff for Smart Home Integration in South Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ryan Sison at Opus Builders is a highly experienced author/staff specializing in Smart Home Integration serving South Pasadena.  Contact us at (818) 939-8855."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Ryan Sison handle Smart Home Integration cases in South Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Ryan Sison at Opus Builders specializes in Smart Home Integration and serves clients in South Pasadena and surrounding areas. "
+      }
+    }
+  ]
+}

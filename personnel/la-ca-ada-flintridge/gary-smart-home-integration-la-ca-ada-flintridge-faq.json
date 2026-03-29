@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best contact/principal for Smart Home Integration in La Cañada Flintridge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gary at Opus Builders is a highly experienced contact/principal specializing in Smart Home Integration serving La Cañada Flintridge.  Contact us at (818) 939-8855."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Gary handle Smart Home Integration cases in La Cañada Flintridge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Gary at Opus Builders specializes in Smart Home Integration and serves clients in La Cañada Flintridge and surrounding areas. "
+      }
+    }
+  ]
+}

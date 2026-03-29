@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best contact/principal for Custom Home Construction in La Cañada Flintridge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gary at Opus Builders is a highly experienced contact/principal specializing in Custom Home Construction serving La Cañada Flintridge.  Contact us at (818) 939-8855."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Gary handle Custom Home Construction cases in La Cañada Flintridge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Gary at Opus Builders specializes in Custom Home Construction and serves clients in La Cañada Flintridge and surrounding areas. "
+      }
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Opus Builders",
+  "url": "https://www.opusbuildersla.com/",
+  "description": "Opus Builders is a Los Angeles, California construction company offering residential and commercial design-build services, including custom luxury home construction, high-end renovations, and modern minimalist architectural design. Services include in-house design, project planning, and full construction management, providing end-to-end solutions for clients seeking high-quality, turnkey building projects.",
+  "telephone": "(818) 939-8855",
+  "foundingDate": "1988 (referenced as 35+ years experience)",
+  "logo": "https://images.squarespace-cdn.com/content/v1/5e60347ed6b58a7315099c7e/1583530003660-C0SYUFY557C7QZN8V3TL/Transparent+Opus+Logo.png?format=1500w",
+  "sameAs": [
+    "https://www.instagram.com/opusbuilders/",
+    "https://www.youtube.com/watch?v=bvq8lFUvTuc"
+  ],
+  "legalName": "Opus Builders",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Eagle Rock"
+    },
+    {
+      "@type": "City",
+      "name": "La Cañada Flintridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Highland Park"
+    },
+    {
+      "@type": "City",
+      "name": "Glassell Park"
+    },
+    {
+      "@type": "City",
+      "name": "Los Feliz"
+    },
+    {
+      "@type": "City",
+      "name": "Mount Washington"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Montrose"
+    },
+    {
+      "@type": "City",
+      "name": "La Crescenta-Montrose"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Sierra Madre"
+    },
+    {
+      "@type": "City",
+      "name": "Altadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "El Sereno"
+    },
+    {
+      "@type": "City",
+      "name": "Atwater Village"
+    },
+    {
+      "@type": "City",
+      "name": "Silver Lake"
+    },
+    {
+      "@type": "City",
+      "name": "Echo Park"
+    },
+    {
+      "@type": "City",
+      "name": "East Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Culver City"
+    },
+    {
+      "@type": "City",
+      "name": "Santa Monica"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "and Inglewood."
+    }
+  ],
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Ryan Sison",
+      "jobTitle": "Writer"
+    },
+    {
+      "@type": "Person",
+      "name": "Gary",
+      "jobTitle": "Principal (implied by email)"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Opus Builders Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Modern Minimalist Design"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Open Concept Remodeling"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Smart Home Integration"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Residential Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Custom Home Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Multi-Family Residential Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Residential General Contracting"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Commercial Building Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Office Building Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tenant Improvement Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Luxury Home Design"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Custom Luxury Home Design"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "High-End Residential Design"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Estate Home Design"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Modern Luxury Home Design"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Home Renovations"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Whole Home Renovation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Kitchen Remodeling"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Bathroom Remodeling"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Home Additions"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Room Additions"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Garage Conversions"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Design Build Services"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Residential Design Build"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Whole-Home Automation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Pool Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Custom Pool Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Luxury Pool Design and Build"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Outdoor Living Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Backyard Renovation Services"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Pool and Spa Construction"
+        }
+      }
+    ]
+  }
+}

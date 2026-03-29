@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Opus Builders - Opus Builders Headquarters",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1412 Colorado Blvd",
+    "addressLocality": "Los Angeles",
+    "addressRegion": "CA",
+    "postalCode": "90041"
+  },
+  "telephone": "(818) 939-8855",
+  "url": "https://www.opusbuildersla.com/"
+}

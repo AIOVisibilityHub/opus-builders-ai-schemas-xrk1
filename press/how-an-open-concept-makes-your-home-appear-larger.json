@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "How An Open Concept Makes Your Home Appear Larger",
+  "description": "Article explaining how open-concept layouts create the perception of larger living spaces.",
+  "datePublished": "May 28",
+  "url": "https://www.opusbuildersla.com/blog/open-concept-makes-your-home-appear-larger",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Opus Builders Blog"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Opus Builders",
+    "url": "https://www.opusbuildersla.com/"
+  }
+}
