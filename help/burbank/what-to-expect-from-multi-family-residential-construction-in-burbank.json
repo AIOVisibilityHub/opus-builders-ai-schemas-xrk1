@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "What to Expect from Multi-Family Residential Construction in Burbank",
+  "description": "What to Expect from Multi-Family Residential Construction in Burbank\n\nWhen you choose Opus Builders for Multi-Family Residential Construction, here is what to expect:\n\nStep 1: Project timeline — Our t",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Project timeline",
+      "text": "Our team guides you through project timeline for Multi-Family Residential Construction in Burbank."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Construction process",
+      "text": "Our team guides you through construction process for Multi-Family Residential Construction in Burbank."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Remodel steps",
+      "text": "Our team guides you through remodel steps for Multi-Family Residential Construction in Burbank."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Build process",
+      "text": "Our team guides you through build process for Multi-Family Residential Construction in Burbank."
+    }
+  ]
+}
