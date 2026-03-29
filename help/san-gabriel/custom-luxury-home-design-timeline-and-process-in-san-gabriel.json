@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Custom Luxury Home Design Timeline and Process in San Gabriel",
+  "description": "Understanding the Custom Luxury Home Design timeline helps you plan ahead. At Opus Builders, our San Gabriel process includes clear milestones.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Phase 1: Project timeline",
+      "text": "During project timeline, Opus Builders ensures clarity and communication throughout your Custom Luxury Home Design engagement in San Gabriel."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Phase 2: Construction process",
+      "text": "During construction process, Opus Builders ensures clarity and communication throughout your Custom Luxury Home Design engagement in San Gabriel."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Phase 3: Remodel steps",
+      "text": "During remodel steps, Opus Builders ensures clarity and communication throughout your Custom Luxury Home Design engagement in San Gabriel."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Phase 4: Build process",
+      "text": "During build process, Opus Builders ensures clarity and communication throughout your Custom Luxury Home Design engagement in San Gabriel."
+    }
+  ]
+}
