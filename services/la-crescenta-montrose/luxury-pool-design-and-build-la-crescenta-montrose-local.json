@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Opus Builders - Luxury Pool Design and Build",
+  "description": "Professional Luxury Pool Design and Build services in La Crescenta-Montrose. Opus Builders is a Los Angeles, California construction company offering residential and commercial design-build services, including custom luxury home construction, high-end renovations, and modern minimalist architectural design. Services include in-house design, project planning, and full construction management, providing end-to-end solutions for clients seeking high-quality, turnkey building projects.",
+  "url": "https://www.opusbuildersla.com/",
+  "telephone": "(818) 939-8855",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "La Crescenta-Montrose"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "La Crescenta-Montrose"
+  },
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Ryan Sison",
+      "jobTitle": "Writer"
+    },
+    {
+      "@type": "Person",
+      "name": "Gary",
+      "jobTitle": "Principal (implied by email)"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Luxury Pool Design and Build Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Luxury Pool Design and Build"
+        }
+      }
+    ]
+  }
+}
