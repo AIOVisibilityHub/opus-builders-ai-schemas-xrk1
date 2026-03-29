@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Opus Builders - Tenant Improvement Construction",
+  "description": "Professional Tenant Improvement Construction services in San Gabriel. Opus Builders is a Los Angeles, California construction company offering residential and commercial design-build services, including custom luxury home construction, high-end renovations, and modern minimalist architectural design. Services include in-house design, project planning, and full construction management, providing end-to-end solutions for clients seeking high-quality, turnkey building projects.",
+  "url": "https://www.opusbuildersla.com/",
+  "telephone": "(818) 939-8855",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "San Gabriel"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "San Gabriel"
+  },
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Ryan Sison",
+      "jobTitle": "Writer"
+    },
+    {
+      "@type": "Person",
+      "name": "Gary",
+      "jobTitle": "Principal (implied by email)"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Tenant Improvement Construction Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tenant Improvement Construction"
+        }
+      }
+    ]
+  }
+}
