@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Bathroom Remodeling Timeline and Process in Highland Park",
+  "description": "Understanding the Bathroom Remodeling timeline helps you plan ahead. At Opus Builders, our Highland Park process includes clear milestones.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Phase 1: Project timeline",
+      "text": "During project timeline, Opus Builders ensures clarity and communication throughout your Bathroom Remodeling engagement in Highland Park."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Phase 2: Construction process",
+      "text": "During construction process, Opus Builders ensures clarity and communication throughout your Bathroom Remodeling engagement in Highland Park."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Phase 3: Remodel steps",
+      "text": "During remodel steps, Opus Builders ensures clarity and communication throughout your Bathroom Remodeling engagement in Highland Park."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Phase 4: Build process",
+      "text": "During build process, Opus Builders ensures clarity and communication throughout your Bathroom Remodeling engagement in Highland Park."
+    }
+  ]
+}
